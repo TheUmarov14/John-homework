@@ -1,0 +1,10 @@
+@import url(../../css/style.css);
+
+.featured2 {
+  color: #21243d;
+  font-size: 44px;
+  font-weight: 900;
+  line-height: 60px;
+  margin-left: 180px;
+  margin-bottom: 22px;
+}
